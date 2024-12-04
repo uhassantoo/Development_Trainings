@@ -2,3 +2,23 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large
 }
+
+ul {
+    list-style: none;
+}
+dl {
+    color: brown;
+}
+dd {
+    color: red;
+}
+
+.dev {
+    color: blueviolet;
+}
+#d1 {
+    color: black;
+}
+#d2 {
+    color: yellow;
+}
