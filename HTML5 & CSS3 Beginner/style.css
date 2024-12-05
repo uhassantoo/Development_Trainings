@@ -1,0 +1,25 @@
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+body {
+    background-color: rgb(100, 40, 40);
+}
+/* * {
+    background-color: cadetblue;
+} */
+ul,li{
+    text-align: right;
+}
+
+#parent {
+    color: green;
+    padding: 30px;
+}
+#child {
+    padding: inherit;
+}
+#child1 {
+    color: inherit;
+}

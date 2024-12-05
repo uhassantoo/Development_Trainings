@@ -20,7 +20,7 @@
 8- Lists 
 9- Tables 
 10- Containers 
-11- Semantic Elements 
+11- Semantic Elements (Projects)
 12- Structuring a Web Page
 1- Introduction 
 2- Providing CSS 
