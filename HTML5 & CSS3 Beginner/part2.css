@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yuji+Mai&display=swap');
+
+h1 {
+    color: springgreen;
+}
+h2 {
+    color: #3074070c;
+    background-color: rgb(225, 155, 86);
+}
+body {
+    /* background-image: url('./images/images.jpg'); */
+    background-repeat: repeat;
+    background-position: 200%;
+    background-size: 200px;
+    margin: 0;
+}
+#margin1 {
+   margin: 50px;
+   margin-top: 50px;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
+   /* shorthand */
+   margin: 10px 20px 50px 30px;  
+}
+#padding1 {
+    padding: 20px;
+}
+#box{
+    color: chocolate;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: justify;
+    /* text-decoration: line-through; */
+    text-transform: capitalize;
+    text-overflow: hidden;
+    text-shadow: 2px 3px 2px;
+    font-family: "Ojuju", sans-serif;
+    font-size: 24px;
+    font-weight: 200px;
+}
+#btn:link {
+    color: red;
+}
+
+/* visited link */
+#btn:visited {
+    color: green;
+}
+
+/* mouse over link */
+#btn:hover {
+    color: hotpink;
+}
+
+/* selected link */
+#btn:active {
+    color: blue;
+}
+
+/* display block 
+    inline
+    inline block 
+
+display flex 
+    flexbox  
+    flex shrink
+    flex grow
+
+display grid 
+    row and coloumns
+    tables */
