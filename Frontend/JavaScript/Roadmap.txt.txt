@@ -1,0 +1,5 @@
+1. Basics (Variables, Data types, Array)
+2. Control Structures (If/else, Loops)
+3. Functions (Built-in, User-Defined)
+4. DOM  (Manipulate to HTML)
+5. Events (Specific tasks)
