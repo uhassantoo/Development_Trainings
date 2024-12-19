@@ -103,3 +103,42 @@ console.log(names)
 
 names['ali3'] = ''
 console.log(names)
+
+
+// ---- Task Solution -----
+
+let std_info = [
+    {
+         username: 'Umer', 
+         age : 22,
+         reg_num : 123 , 
+         course : 'Programming', 
+         fav_prog : ['HTML','JS','PYTHON','C++'],
+         marks : {
+            english : 90,
+            urdu : 85,
+            physics : 50,
+            maths : 80,
+         }
+    },
+    {
+         username: 'Ali', 
+         age : 24,
+         reg_num : 1232 , 
+         course : 'Programming', 
+         fav_prog : ['HTML','JS','PYTHON','C++'],
+         marks : {
+            english : 94,
+            urdu : 84,
+            physics : 50,
+            maths : 80,
+         }
+    }
+]
+
+console.log(std_info)
+console.log(std_info[1].username)
+console.log(std_info[1].age)
+
+// ---Marks---
+console.log(std_info[1].marks.english)

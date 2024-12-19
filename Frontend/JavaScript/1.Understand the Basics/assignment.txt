@@ -54,3 +54,38 @@ splice()	Removes or replaces existing elements and/or adds new elements.
         <li>Display the marks of any 2 subjects of any student.</li>
     </ul>
 
+
+Operator Assignment 
+++	Increment (increments by 1)	++5 or 5++  // 6
+--	Decrement (decrements by 1)	--4 or 4--  // 3
+**	Exponentiation (Power)	4 ** 2  // 16
+
+
+Assignment Operator
+Operator	Name	Example
+=	Assignment Operator	a = 7;
++=	Addition Assignment	a += 5;  // a = a + 5
+-=	Subtraction Assignment	a -= 2;  // a = a - 2
+*=	Multiplication Assignment	a *= 3;  // a = a * 3
+/=	Division Assignment	a /= 2;  // a = a / 2
+%=	Remainder Assignment	a %= 2;  // a = a % 2
+**=	Exponentiation Assignment	a **= 2;  // a = a**2
+
+
+Comparsion Operator
+Operator	Meaning	Example
+==	Equal to	3 == 5 gives us false
+!=	Not equal to	3 != 4 gives us true
+>	Greater than	4 > 4 gives us false
+<	Less than	3 < 3 gives us false
+>=	Greater than or equal to	4 >= 4 gives us true
+<=	Less than or equal to	3 <= 3 gives us true
+===	Strictly equal to	3 === "3" gives us false
+!==	Strictly not equal to	3 !== "3" gives us true
+
+
+JavaScript String Concatenation Operator
+In JavaScript, you can also use the + operator to concatenate (join) two strings. For example,
+
+Ternary: Returns value based on the condition.
+
