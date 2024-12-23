@@ -15,7 +15,7 @@ hello = 'world'
 // 4 . const
 
 // Let 
-let firstname1 = 'Ali'
+let firstname1 = 'Ali h'
 console.log(firstname1)
 
 var a,b,c  // Variable Initialize
