@@ -22,3 +22,12 @@ function changebtn(){
     ele.getElementsByTagName('p')
     [1].style.fontSize = '36px'
 }
+
+function back(){
+    document.getElementById('btn').style.backgroundColor = 'red'
+}
+
+function tryit(){
+    let query = document.querySelector('p')
+    query.style.backgroundColor = 'green'
+}
