@@ -31,3 +31,13 @@ bmw = Car()
 bmw.model = 'M Series'
 
 print(suzuki.model,suzuki.name)
+
+
+class Student:
+    # Attributes
+    std_id = 12
+    name = ''
+    course = ''
+
+# Create a object    
+
