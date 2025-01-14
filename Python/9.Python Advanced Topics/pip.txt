@@ -1,0 +1,1 @@
+pip is the standard package manager for Python. We can use pip to install additional packages that are not available in the Python standard library. For example,
