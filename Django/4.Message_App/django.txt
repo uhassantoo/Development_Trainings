@@ -1,0 +1,7 @@
+python manage.py makemigrations (For model Register)
+
+python manage.py migrate
+
+Create a superuser
+
+python manage.py createsuperuser
