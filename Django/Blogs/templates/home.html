@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+<h1>Home Page</h1>
+{% block content %}
+    {% for message in messgae_list %}
+    <div class="message-entry">
+        <h2><a href="">{{ message.title }}</a></h2>
+        <p>{{ message.body }}</p>
+    </div>
+    {% endfor %}
+{% endblock content %}
